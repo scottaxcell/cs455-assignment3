@@ -1,0 +1,32 @@
+2019-04-24 10:03:24,593 WARN  [main] util.NativeCodeLoader (NativeCodeLoader.java:<clinit>(60)) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+QUESTION 1	
+==========	
+Artist with most songs:	b'Michael Jackson'
+	
+QUESTION 2	
+==========	
+Artist with loudest songs:	b'Micron'
+	
+QUESTION 3	
+==========	
+Song with highest popularity score (1.0):	b'Immigrant Song (Album Version)'
+	
+QUESTION 4	
+==========	
+Artist with highest total time fading:	b'Brad Mehldau'
+	
+QUESTION 5	
+==========	
+Longest song(s):	b'Der Geist des Llano Estacado \x13 Ein Spion'
+Shortest song(s):	b'ISDN'
+Median song(s):	b'Bouquet  (The Best We Could Find Album Version)', b'Corcovado', b'Ozreal', b'Nro. 2 En Tu Lista', b'No Apparent Motive', b'Be', b'Mama Please', b'A Change Of Heart', b'Two By Two', b'Pas L\xc3\xa0 Souvent', b'The Slide Song', b'Go DJ', b'Inama Nushif (Montage)', b'Ya no m\xc3\xa1s', b'Four Big Speakers', b'Lucky Luke (1990)', b'Out Of Nothing', b'I Can See Through Orange', b'Strike Of The Sword', b'Private Lily', b'Lovenita', b'I Want A Hippo For Christmas (Kids Christmas Party)', b'Really Something', b'Lucky Girl', "b""He's Makin' You The Fool""", b'The Very Last Time', b'Caso Perdido', b'Roads (feat. Scott and Probe)', b'Nunca Contigo - Original', b'Naar Verdens K\xc3\xa6mper Gr\xc3\xa6der', b'Put In The Work', b'The Depths Of Darkness', "b""Collector's Item feat. Grap Luva (Vocal)""", b'S.E.X.', b'Duvet', b'Honey In Dem Face', "b""You're A Woman '98""", b'Feil', b'El Amor', b'In Defeat', b'Le Beatitudini'
+	
+QUESTION 6	
+==========	
+10 most energetic and danceable songs:	
+	
+QUESTION 8	
+==========	
+Most generic artist:	b'Jay Soto'
+Most unique artist:	b'Lackluster'
+	

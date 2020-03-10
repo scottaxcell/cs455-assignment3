@@ -1,0 +1,10 @@
+2019-04-24 10:05:03,732 WARN  [main] util.NativeCodeLoader (NativeCodeLoader.java:<clinit>(60)) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+QUESTION 7	
+==========	
+Start time average:	121.51710178928512
+Timbre average:	0.35554229360869877
+Pitch average:	3.7298344903486838
+Max loudness average:	-13.280251270451787
+Max loudness time average:	0.06171015245416784
+Start loudness average:	-21.352676591234975
+	

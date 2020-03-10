@@ -1,0 +1,898 @@
+2019-04-24 10:06:34,796 WARN  [main] util.NativeCodeLoader (NativeCodeLoader.java:<clinit>(60)) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+==============================	
+Artist Name:	b'Led Zeppelin'
+Artist Terms:	blues-rock heavy metal hard rock classic rock psychedelic rock progressive rock southern rock blues oldies stoner rock ballad soft rock rock garage rock jam band alternative rock progressive metal grunge male vocalist 70s pop rock british guitar funk psychedelic reggae 60s metal alternative soundtrack jazz folk pop experimental indie rock punk indie
+Tempo:	150.569
+Mode:	1
+Loudness:	-10.544
+End of Fade In:	2.223
+Start of Fade Out:	140.132
+Duration:	145.05751
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	11
+	
+==============================	
+Artist Name:	b'Muse'
+Artist Terms:	art rock piano rock indie pop alternative rock progressive rock alternative pop rock emo hard rock indie rock grunge ballad post rock alternative metal pop rock male vocalist heavy metal rock psychedelic rock new wave electronica alternative soundtrack indie 00s progressive electronic experimental rap punk pop jazz metal
+Tempo:	128.009
+Mode:	1
+Loudness:	-3.876
+End of Fade In:	2.99
+Start of Fade Out:	300.716
+Duration:	304.84853
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	2
+	
+==============================	
+Artist Name:	b'The White Stripes'
+Artist Terms:	blues-rock garage rock blues alternative rock indie rock rock detroit indie alternative pop garage garage rock revival
+Tempo:	123.38
+Mode:	0
+Loudness:	-7.948
+End of Fade In:	1.083
+Start of Fade Out:	229.146
+Duration:	232.61995
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	4
+	
+==============================	
+Artist Name:	b'Florence + The Machine'
+Artist Terms:	alternative rock indie rock indie experimental alternative indie pop electro beautiful female dreamy dark ethereal folk electronic sad sexy greek rock mellow male synth
+Tempo:	149.979
+Mode:	1
+Loudness:	-6.266
+End of Fade In:	0.342
+Start of Fade Out:	212.01
+Duration:	219.66322
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	7
+	
+==============================	
+Artist Name:	b'Pixies'
+Artist Terms:	noise pop grunge alternative rock indie rock rock alternative pop indie punk 80s college rock
+Tempo:	81.603
+Mode:	1
+Loudness:	-13.32
+End of Fade In:	0.264
+Start of Fade Out:	213.449
+Duration:	229.3024
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	4
+	
+==============================	
+Artist Name:	b'Mike Posner'
+Artist Terms:	hip hop pop dubstep crunk song writer producer male electronic sexy underground beats black up beat indie lounge soul smooth
+Tempo:	130.013
+Mode:	1
+Loudness:	-4.442
+End of Fade In:	0.171
+Start of Fade Out:	205.967
+Duration:	214.7522
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	0
+	
+==============================	
+Artist Name:	b'Amy Winehouse'
+Artist Terms:	vocal jazz blues pop rock funk pop rock soul england all-female jazz ska classic vocal rap female urban black soulful funny cover retro guitar soft swing acoustic funky raw diva lounge horns
+Tempo:	145.508
+Mode:	1
+Loudness:	-5.257
+End of Fade In:	0.119
+Start of Fade Out:	413.257
+Duration:	418.14159
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	2
+	
+==============================	
+Artist Name:	b'Coldplay'
+Artist Terms:	piano rock british pop rock alternative rock indie rock pop alternative funk guitar piano beautiful psychedelic heavy indie acoustic male mellow instrumental singer
+Tempo:	130.965
+Mode:	1
+Loudness:	-7.387
+End of Fade In:	0.241
+Start of Fade Out:	294.255
+Duration:	307.51302
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	8
+	
+==============================	
+Artist Name:	b'The xx'
+Artist Terms:	indie pop hip hop rap indietronica shoegaze dream pop post rock new wave electro dub downtempo alternative rock electronic indie rock indie british electronica california male vocalist female vocalist alternative pop rock ambient 00s experimental psychedelic acoustic soul minimal mellow classical beautiful gothic
+Tempo:	115.943
+Mode:	0
+Loudness:	-12.342
+End of Fade In:	2.334
+Start of Fade Out:	183.107
+Duration:	188.55138
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	3
+	
+==============================	
+Artist Name:	b'Justin Bieber'
+Artist Terms:	teen pop dance pop pop ballad singer vocal soul country guitar united states
+Tempo:	86.658
+Mode:	1
+Loudness:	-5.741
+End of Fade In:	0.175
+Start of Fade Out:	213.914
+Duration:	220.89098
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	0
+	
+==============================	
+Artist Name:	b'Vince Guaraldi Trio'
+Artist Terms:	cool jazz folk punk chill-out jazz future jazz post rock smooth jazz soundtrack easy listening classic rock united states downtempo dance contemporary jazz piano instrumental jazz piano rock composer melancholia christmas music electronic classical relax american indie alternative punk pop folk ambient soul 80s fusion 60s california old school swing brazilian germany
+Tempo:	73.026
+Mode:	1
+Loudness:	-27.907
+End of Fade In:	0.251
+Start of Fade Out:	353.03
+Duration:	363.80689
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	0
+	
+==============================	
+Artist Name:	b'Maria Gad\xc3\xba'
+Artist Terms:	brazilian pop music tropical reggae female vocalist brazilian world brazil rio de janeiro acoustic guitar
+Tempo:	129.064
+Mode:	1
+Loudness:	-10.486
+End of Fade In:	0.299
+Start of Fade Out:	189.777
+Duration:	195.70893
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	0
+	
+==============================	
+Artist Name:	b'Jerrod Niemann'
+Artist Terms:	country music country party music guitar powerful
+Tempo:	112.491
+Mode:	1
+Loudness:	-6.967
+End of Fade In:	0.298
+Start of Fade Out:	190.874
+Duration:	194.11546
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	7
+	
+==============================	
+Artist Name:	b'OneRepublic'
+Artist Terms:	rock pop alternative aor soundtrack guitar piano melancholia emotional acoustic uplifting
+Tempo:	118.005
+Mode:	1
+Loudness:	-6.961
+End of Fade In:	0.415
+Start of Fade Out:	191.797
+Duration:	208.14322
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	8
+	
+==============================	
+Artist Name:	b'Kelly Clarkson'
+Artist Terms:	teen pop pop adult contemporary ballad disco rock hard rock jazz punk singer voice sexy vocal soul sad female country diva
+Tempo:	147.909
+Mode:	1
+Loudness:	-3.946
+End of Fade In:	0.154
+Start of Fade Out:	271.673
+Duration:	281.5473
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	9
+	
+==============================	
+Artist Name:	b'The Killers'
+Artist Terms:	rock alternative rave disco new wave soundtrack emo pop funk guitar alternative rock electronica indie soul group party music beautiful melodic 80s retro
+Tempo:	125.274
+Mode:	0
+Loudness:	-3.746
+End of Fade In:	4.348
+Start of Fade Out:	227.103
+Duration:	235.15383
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	3
+	
+==============================	
+Artist Name:	b'Harmonia'
+Artist Terms:	teen pop alternative rock pop rock british pop electropop dance pop power pop pop ballad rock female vocalist easy listening indie pop united states pop punk disco indie rock electro new wave electronica emo soundtrack indie progressive rock funk hip hop alternative 00s sexy rap american english electronic female beautiful female vocals punk acoustic experimental soul
+Tempo:	149.92
+Mode:	0
+Loudness:	-20.402
+End of Fade In:	9.706
+Start of Fade Out:	633.603
+Duration:	655.77751
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	8
+	
+==============================	
+Artist Name:	b'Michael Jackson'
+Artist Terms:	motown dance pop funk vocal pop rock urban soul ballad disco soundtrack alternative rock jazz black singer classic emotional funky romantic smooth voice alternative beautiful slow male united states groove smooth soul sentimental
+Tempo:	85.862
+Mode:	0
+Loudness:	-5.587
+End of Fade In:	0.292
+Start of Fade Out:	281.205
+Duration:	297.40363
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	5
+	
+==============================	
+Artist Name:	b'The Strokes'
+Artist Terms:	indie rock rock new york garage rock revival ballad grunge garage rock club power pop guitar new wave reggae singer solo party music alternative experimental instrumental sexy gothic country garage soul indie slow pop 90s 80s
+Tempo:	157.878
+Mode:	1
+Loudness:	-5.513
+End of Fade In:	1.001
+Start of Fade Out:	213.902
+Duration:	218.56608
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	9
+	
+==============================	
+Artist Name:	b'Bon Iver'
+Artist Terms:	alternative rock indie folk guitar acoustic beautiful emotional chill-out sad melancholia electronic rock indie folk lyrics slow acoustic guitar soul quiet soulful song writer intense ambient country singer lyrical
+Tempo:	116.593
+Mode:	1
+Loudness:	-12.67
+End of Fade In:	4.075
+Start of Fade Out:	271.018
+Duration:	285.1522
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	7
+	
+==============================	
+Artist Name:	b'Scissor Sisters'
+Artist Terms:	alternative dance pop rock pop rock alternative club dance glam rock disco art rock new romantic electroclash club soundtrack electro blues funk party music glam funky beats electronic classic vocal funny synth up beat metal soul solo
+Tempo:	107.998
+Mode:	1
+Loudness:	-3.987
+End of Fade In:	0.0
+Start of Fade Out:	256.966
+Duration:	256.96608
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	7
+	
+==============================	
+Artist Name:	b'Keri Hilson / Kanye West / Ne-Yo'
+Artist Terms:	pop club rap song writer vocal female producer singer beats soul girl
+Tempo:	154.906
+Mode:	1
+Loudness:	-4.66
+End of Fade In:	0.0
+Start of Fade Out:	315.919
+Duration:	326.13832
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	10
+	
+==============================	
+Artist Name:	b'Pantera'
+Artist Terms:	heavy metal rock metal thrash metal groove metal speed metal hardcore metal grunge hard rock black metal blues rap guitar classic brutal hardcore heavy hair metal drums 90s
+Tempo:	221.531
+Mode:	0
+Loudness:	-5.993
+End of Fade In:	2.334
+Start of Fade Out:	275.8
+Duration:	275.80036
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	6
+	
+==============================	
+Artist Name:	b'Coldplay'
+Artist Terms:	piano rock british pop rock alternative rock indie rock pop alternative funk guitar piano beautiful psychedelic heavy indie acoustic male mellow instrumental singer
+Tempo:	120.404
+Mode:	0
+Loudness:	-6.927
+End of Fade In:	0.984
+Start of Fade Out:	256.29
+Duration:	270.00118
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	7
+	
+==============================	
+Artist Name:	b'Asking Alexandria'
+Artist Terms:	post-hardcore screamo metalcore death metal melodic metal hardcore energetic heavy brutal piano
+Tempo:	140.117
+Mode:	1
+Loudness:	-2.628
+End of Fade In:	0.229
+Start of Fade Out:	237.221
+Duration:	243.43465
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	7
+Key:	7
+	
+==============================	
+Artist Name:	b'Silversun Pickups'
+Artist Terms:	dream pop indie pop alternative rock indie rock rock indie los angeles grunge guitar pop bass drums male female beautiful hypnotic alternative noise ethereal
+Tempo:	102.332
+Mode:	0
+Loudness:	-3.913
+End of Fade In:	0.0
+Start of Fade Out:	247.693
+Duration:	253.75302
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	5
+	
+==============================	
+Artist Name:	b'Ludacris'
+Artist Terms:	dirty south rap hip hop rap southern rap club soundtrack urban funny underground classic pop
+Tempo:	87.396
+Mode:	1
+Loudness:	-8.96
+End of Fade In:	0.0
+Start of Fade Out:	294.487
+Duration:	296.56771
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	5
+Key:	7
+	
+==============================	
+Artist Name:	b'Coldplay'
+Artist Terms:	piano rock british pop rock alternative rock indie rock pop alternative funk guitar piano beautiful psychedelic heavy indie acoustic male mellow instrumental singer
+Tempo:	146.503
+Mode:	1
+Loudness:	-7.793
+End of Fade In:	0.365
+Start of Fade Out:	295.48
+Duration:	311.27465
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	5
+	
+==============================	
+Artist Name:	b'The Notorious B.I.G.'
+Artist Terms:	gangster rap hip hop rap hardcore rap east coast rap east coast soundtrack reggae pop beats gangsta 90s
+Tempo:	93.919
+Mode:	0
+Loudness:	-5.978
+End of Fade In:	0.194
+Start of Fade Out:	217.246
+Duration:	230.03383
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	1
+	
+==============================	
+Artist Name:	b'Ellie Goulding'
+Artist Terms:	dance pop pop beat electropop new wave power pop electronic female electronica indie pop electro funk techno jazz synth indie rock acoustic sexy up beat folk piano retro country indie mellow experimental alternative
+Tempo:	150.009
+Mode:	0
+Loudness:	-5.903
+End of Fade In:	0.967
+Start of Fade Out:	173.36
+Duration:	177.52771
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	5
+	
+==============================	
+Artist Name:	b'Montell Jordan'
+Artist Terms:	neo soul new jack swing quiet storm r&b club hip hop funk rap singer-songwriter male vocalist 90s urban party music pop old school mellow american sexy 00s beautiful romantic west coast radio slow jams 90s pop love song emo
+Tempo:	103.412
+Mode:	1
+Loudness:	-7.372
+End of Fade In:	0.107
+Start of Fade Out:	177.255
+Duration:	182.9873
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	0
+	
+==============================	
+Artist Name:	b'Queens Of The Stone Age'
+Artist Terms:	stoner metal alternative metal heavy metal hard rock rock alternative grunge garage rock heavy soundtrack death metal alternative rock pop instrumental garage indie sexy gothic guitar punk soul lyrics aggressive psychedelia
+Tempo:	160.07
+Mode:	1
+Loudness:	-9.414
+End of Fade In:	0.351
+Start of Fade Out:	202.153
+Duration:	211.56526
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	11
+	
+==============================	
+Artist Name:	b'Colbie Caillat'
+Artist Terms:	pop rock easy listening ballad soft rock country music alternative rock folk rock indie pop pop female vocalist rock jazz folk acoustic indie rock indie relax alternative mellow soul american beautiful guitar female country 00s smooth romantic vocal california female vocals sexy english
+Tempo:	143.958
+Mode:	1
+Loudness:	-5.872
+End of Fade In:	0.201
+Start of Fade Out:	225.628
+Duration:	233.16853
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	3
+	
+==============================	
+Artist Name:	b'OneRepublic'
+Artist Terms:	rock pop alternative aor soundtrack guitar piano melancholia emotional acoustic uplifting
+Tempo:	146.088
+Mode:	1
+Loudness:	-3.841
+End of Fade In:	3.779
+Start of Fade Out:	222.563
+Duration:	237.97506
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	0
+	
+==============================	
+Artist Name:	b'Two Door Cinema Club'
+Artist Terms:	alternative rock electronica indie alternative indietronica electropop disco indie pop electronic electro techno new wave indie rock energetic pop vocal rock acoustic up beat funny synth funky sexy psychedelic dark experimental punk 00s french
+Tempo:	79.998
+Mode:	1
+Loudness:	-5.304
+End of Fade In:	0.0
+Start of Fade Out:	152.282
+Duration:	164.17914
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	0
+	
+==============================	
+Artist Name:	b'Brontide'
+Artist Terms:	post rock los angeles instrumental club california melodic london dark guitar new york guitarist technical free loud manchester
+Tempo:	91.298
+Mode:	0
+Loudness:	-15.955
+End of Fade In:	2.711
+Start of Fade Out:	190.856
+Duration:	202.50077
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	11
+	
+==============================	
+Artist Name:	b'Vince Guaraldi Trio'
+Artist Terms:	cool jazz folk punk chill-out jazz future jazz post rock smooth jazz soundtrack easy listening classic rock united states downtempo dance contemporary jazz piano instrumental jazz piano rock composer melancholia christmas music electronic classical relax american indie alternative punk pop folk ambient soul 80s fusion 60s california old school swing brazilian germany
+Tempo:	122.953
+Mode:	1
+Loudness:	-18.638
+End of Fade In:	0.407
+Start of Fade Out:	293.245
+Duration:	305.05751
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	5
+Key:	5
+	
+==============================	
+Artist Name:	b'OneRepublic'
+Artist Terms:	rock pop alternative aor soundtrack guitar piano melancholia emotional acoustic uplifting
+Tempo:	147.967
+Mode:	0
+Loudness:	-6.042
+End of Fade In:	0.0
+Start of Fade Out:	218.006
+Duration:	224.67873
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	11
+	
+==============================	
+Artist Name:	b'Passion Pit'
+Artist Terms:	indie pop electronic pop indietronica disco california club electro soundtrack synth electronica rock indie party music folk punk 80s canada twee
+Tempo:	106.088
+Mode:	1
+Loudness:	-3.655
+End of Fade In:	0.0
+Start of Fade Out:	158.436
+Duration:	175.0722
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	1
+	
+==============================	
+Artist Name:	b'Brontide'
+Artist Terms:	post rock los angeles instrumental club california melodic london dark guitar new york guitarist technical free loud manchester
+Tempo:	166.905
+Mode:	0
+Loudness:	-16.871
+End of Fade In:	39.375
+Start of Fade Out:	417.895
+Duration:	425.58649
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	9
+	
+==============================	
+Artist Name:	b'Belle & Sebastian'
+Artist Terms:	indie pop chamber pop twee pop folk rock rock pop alternative guitar acoustic beautiful classic soft indie funny twee piano folk instrumental dreamy melodic melancholia mellow pretty up beat cello strings 90s retro
+Tempo:	99.132
+Mode:	1
+Loudness:	-5.797
+End of Fade In:	0.229
+Start of Fade Out:	206.507
+Duration:	213.73342
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	9
+	
+==============================	
+Artist Name:	b'Righteous Brothers'
+Artist Terms:	blue-eyed soul brill building pop blues pop soul rock california ballad 60s pop oldies vocal soundtrack am pop orchestra classic smooth duo beautiful song writer country 60s
+Tempo:	98.845
+Mode:	1
+Loudness:	-11.484
+End of Fade In:	0.277
+Start of Fade Out:	209.955
+Duration:	215.90159
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	3
+Key:	0
+	
+==============================	
+Artist Name:	b'Travie McCoy'
+Artist Terms:	indie rock pop reggae singer female surf music alternative
+Tempo:	86.988
+Mode:	1
+Loudness:	-6.405
+End of Fade In:	0.0
+Start of Fade Out:	206.907
+Duration:	211.12118
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	9
+	
+==============================	
+Artist Name:	b'The Strokes'
+Artist Terms:	indie rock rock new york garage rock revival ballad grunge garage rock club power pop guitar new wave reggae singer solo party music alternative experimental instrumental sexy gothic country garage soul indie slow pop 90s 80s
+Tempo:	104.103
+Mode:	1
+Loudness:	-6.374
+End of Fade In:	0.427
+Start of Fade Out:	191.338
+Duration:	193.38404
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	0
+	
+==============================	
+Artist Name:	b'The Pussycat Dolls'
+Artist Terms:	dance pop hip hop rock pop urban all-female club sexy group female
+Tempo:	105.301
+Mode:	1
+Loudness:	-4.432
+End of Fade In:	0.142
+Start of Fade Out:	220.166
+Duration:	225.61914
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	2
+	
+==============================	
+Artist Name:	b'Lady GaGa'
+Artist Terms:	dance pop electropop pop club urban disco pop rock ballad synthpop female vocalist electro electronica united states r&b techno hip hop electronic sexy rock 00s american female beautiful alternative english new york experimental indie female vocals funky piano
+Tempo:	197.887
+Mode:	1
+Loudness:	-6.912
+End of Fade In:	0.473
+Start of Fade Out:	264.539
+Duration:	274.18077
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	2
+	
+==============================	
+Artist Name:	b'Rise Against'
+Artist Terms:	hardcore punk rock punk hardcore punk revival melodic hardcore soundtrack acoustic melodic guitar alternative pop metal
+Tempo:	103.069
+Mode:	0
+Loudness:	-3.752
+End of Fade In:	0.251
+Start of Fade Out:	160.775
+Duration:	170.94485
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	6
+	
+==============================	
+Artist Name:	b'Brontide'
+Artist Terms:	post rock los angeles instrumental club california melodic london dark guitar new york guitarist technical free loud manchester
+Tempo:	96.246
+Mode:	0
+Loudness:	-17.278
+End of Fade In:	22.796
+Start of Fade Out:	345.948
+Duration:	367.80363
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	11
+	
+==============================	
+Artist Name:	b'Bon Iver'
+Artist Terms:	alternative rock indie folk guitar acoustic beautiful emotional chill-out sad melancholia electronic rock indie folk lyrics slow acoustic guitar soul quiet soulful song writer intense ambient country singer lyrical
+Tempo:	76.532
+Mode:	0
+Loudness:	-14.514
+End of Fade In:	0.932
+Start of Fade Out:	222.807
+Duration:	238.49751
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	4
+	
+==============================	
+Artist Name:	b'The xx'
+Artist Terms:	indie pop hip hop rap indietronica shoegaze dream pop post rock new wave electro dub downtempo alternative rock electronic indie rock indie british electronica california male vocalist female vocalist alternative pop rock ambient 00s experimental psychedelic acoustic soul minimal mellow classical beautiful gothic
+Tempo:	109.244
+Mode:	1
+Loudness:	-14.093
+End of Fade In:	8.777
+Start of Fade Out:	302.631
+Duration:	313.39057
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	9
+	
+==============================	
+Artist Name:	b'Edward Sharpe & The Magnetic Zeros'
+Artist Terms:	indie pop alternative power pop guitar piano psychedelic pop country vocal bass banjo
+Tempo:	111.717
+Mode:	1
+Loudness:	-7.822
+End of Fade In:	0.375
+Start of Fade Out:	294.441
+Duration:	306.31138
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	2
+	
+==============================	
+Artist Name:	b'B.o.B'
+Artist Terms:	dirty south rap hard rock hip hop rap rock hardcore rap alternative rap party music funk techno funky soul producer guitar beats
+Tempo:	104.033
+Mode:	1
+Loudness:	-4.755
+End of Fade In:	5.283
+Start of Fade Out:	258.467
+Duration:	269.63546
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	10
+	
+==============================	
+Artist Name:	b'Biffy Clyro'
+Artist Terms:	rock alternative punk pop nu metal grunge emo soundtrack pop guitar heavy loud experimental instrumental metal funky group punk noise indie cover intense progressive
+Tempo:	81.976
+Mode:	1
+Loudness:	-7.666
+End of Fade In:	0.404
+Start of Fade Out:	248.947
+Duration:	258.58567
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	1
+	
+==============================	
+Artist Name:	b'Coldplay'
+Artist Terms:	piano rock british pop rock alternative rock indie rock pop alternative funk guitar piano beautiful psychedelic heavy indie acoustic male mellow instrumental singer
+Tempo:	197.745
+Mode:	1
+Loudness:	-7.965
+End of Fade In:	14.048
+Start of Fade Out:	284.392
+Duration:	294.1122
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	3
+	
+==============================	
+Artist Name:	b'Jason Derulo'
+Artist Terms:	pop urban ballad hip hop rap r&b song writer vocal guitar alternative
+Tempo:	143.909
+Mode:	1
+Loudness:	-4.155
+End of Fade In:	0.107
+Start of Fade Out:	216.468
+Duration:	222.61506
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	11
+	
+==============================	
+Artist Name:	b'OneRepublic'
+Artist Terms:	rock pop alternative aor soundtrack guitar piano melancholia emotional acoustic uplifting
+Tempo:	146.014
+Mode:	1
+Loudness:	-4.504
+End of Fade In:	0.212
+Start of Fade Out:	222.772
+Duration:	238.70649
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	7
+	
+==============================	
+Artist Name:	b'Rootsman'
+Artist Terms:	calypso soca dub reggae ambient electronic germany world fusion caribbean radio
+Tempo:	185.995
+Mode:	1
+Loudness:	-6.217
+End of Fade In:	0.0
+Start of Fade Out:	230.475
+Duration:	248.42404
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	7
+	
+==============================	
+Artist Name:	b'House Of Pain'
+Artist Terms:	hip hop rap hardcore hardcore rap indie rock death metal classic rock classic black hard rock instrumental punk folk old school urban guitar alternative electronic crossover political pop indie groove west coast producer cover
+Tempo:	106.897
+Mode:	1
+Loudness:	-6.381
+End of Fade In:	0.344
+Start of Fade Out:	205.201
+Duration:	213.99465
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	0
+	
+==============================	
+Artist Name:	b'Caribou'
+Artist Terms:	noise pop dream pop shoegaze alternative rock intelligent dance music electronica psychedelic rock indietronica folktronica techno soundtrack electronic pop funk melodic hip hop beats beautiful guitar jazz synth psychedelia instrumental progressive acoustic indie experimental drums punk folk dreamy noise minimal trippy warm
+Tempo:	118.007
+Mode:	0
+Loudness:	-5.6
+End of Fade In:	0.062
+Start of Fade Out:	309.354
+Duration:	315.48036
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	10
+	
+==============================	
+Artist Name:	b'Five Finger Death Punch'
+Artist Terms:	heavy metal classic rock rock hardcore metal thrash metal nu metal metalcore melodic guitar brutal acoustic heavy cover groove epic drums
+Tempo:	114.097
+Mode:	1
+Loudness:	-4.371
+End of Fade In:	0.0
+Start of Fade Out:	257.649
+Duration:	262.42567
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	4
+	
+==============================	
+Artist Name:	b'The Killers / Toni Halliday'
+Artist Terms:	rock alternative rave disco new wave soundtrack emo pop funk guitar alternative rock electronica indie soul group party music beautiful melodic 80s retro
+Tempo:	127.901
+Mode:	1
+Loudness:	-4.472
+End of Fade In:	0.369
+Start of Fade Out:	245.336
+Duration:	259.26485
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	0
+	
+==============================	
+Artist Name:	b'Bobby McFerrin'
+Artist Terms:	vocal jazz soul jazz hard bop jazz funk jazz free improvisation latin jazz smooth jazz chill-out easy listening reggae cool jazz big beat bossa nova post-bop dub ska singer-songwriter pop funk acid jazz oldies pop rock contemporary jazz united states new wave male vocalist downtempo vocal soundtrack soul acoustic fusion germany classical electronic alternative 90s experimental world american 80s new age latin rock punk
+Tempo:	69.117
+Mode:	1
+Loudness:	-22.251
+End of Fade In:	0.514
+Start of Fade Out:	277.989
+Duration:	291.60444
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	1
+Key:	11
+	
+==============================	
+Artist Name:	b'Rihanna / Jay-Z'
+Artist Terms:	dance pop dancehall hip hop ballad pop rock club reggae female vocalist neo soul urban disco pop teen pop electro rap techno electronica 00s sexy soul female rock electronic emo funk american jazz alternative rock alternative
+Tempo:	125.0
+Mode:	1
+Loudness:	-4.364
+End of Fade In:	0.136
+Start of Fade Out:	226.191
+Duration:	239.12444
+Danceability:	0.0
+Energy:	0.0
+Time Signature:	4
+Key:	1
+	
+QUESTION 9
+==========
+Artist Name:    b'Green Square'
+Artist Terms:   dance pop dancehall hip hop ballad pop rock club reggae female vocalist neo soul urban disco pop teen pop electro rap techno electronica 00s sexy soul female rock electronic emo funk american jazz alternative rock alternative
+Tempo:  125.0
+Mode:   1
+Loudness:       -6.364
+End of Fade In: 0.236
+Start of Fade Out:      224.191
+Duration:       249.12444
+Danceability:   0.0
+Energy: 0.0
+Time Signature: 4
+Key:    9
+
